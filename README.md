@@ -1,5 +1,5 @@
 
-# BrickBreaker_Advanced Public
+# BrickBreaker_Advanced 
 
 This project is a Brick Breaker game designed to practice and demonstrate advanced C++ concepts and modern programming techniques. It uses the **SFML** library for graphics and incorporates cutting-edge C++ features to ensure robust, efficient, and clean code.
 
